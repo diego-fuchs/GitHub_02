@@ -8,5 +8,24 @@ footer {
 }
 
 .card {
+  margin: 10px auto;
+}
 
+.signUp form{
+  margin: 35px auto;
+  background-color: #f2f2f2;
+  padding: 25px;
+  border-radius: 7px;
+}
+
+.carousel {
+  padding: 50px 0 0;
+}
+
+.carousel-item {
+ height: 75vh;
+}
+
+.skills {
+  margin: 15px auto;
 }
